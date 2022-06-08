@@ -1,0 +1,56 @@
+body
+{
+
+        background-image: url('../bandera.png');
+        background-repeat: repeat-y;
+        background-attachment: fixed;
+        background-position: 112% 50%; 
+
+}
+
+caption
+{
+    text-align: center;
+}
+
+table
+{
+    margin: 50px 0px;
+}
+
+ol
+{
+    margin: 50px 0px;
+}
+
+ul
+{
+    margin: 50px 0px;
+}
+
+footer
+{
+    margin-top: 50px;
+    text-align: center;
+}
+
+header
+{
+    margin-bottom: 50px;
+}
+
+.title-color
+{
+    color:dimgrey
+}
+
+h3 a
+{
+    text-decoration: none;
+    color:dimgrey
+}
+
+#h3-discursos
+{
+    margin-top: 30px;
+}
